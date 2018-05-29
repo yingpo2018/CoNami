@@ -1,0 +1,4 @@
+database/*
+appserver/CATALINA_BASE/logs/*
+log/*
+request/vote
